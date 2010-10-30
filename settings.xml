@@ -9,6 +9,15 @@
         <alias>test</alias>
       </properties>
     </profile>
+    <profile>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <id>always</id>
+      <properties>
+        <sdk.path>/Users/vvakame/work/android-sdk-mac_x86</sdk.path> 
+      </properties>
+    </profile>
   </profiles>
 </settings>
 
