@@ -1,0 +1,14 @@
+<settings>
+  <profiles>
+    <profile>
+      <id>sign</id>
+      <properties>
+        <keystore>./test.keystore</keystore>
+        <storepass>testtest</storepass>
+        <keypass>testtest</keypass>
+        <alias>test</alias>
+      </properties>
+    </profile>
+  </profiles>
+</settings>
+
