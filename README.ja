@@ -1,0 +1,14 @@
+main
+ プロジェクト
+test
+ テストプロジェクト
+
+mvn.sh
+setup.sh
+
+settings.xml
+ 本来は ~/.m2/ にあるべきもの
+test.keystore
+ 生成したkeystore
+ testtest
+
