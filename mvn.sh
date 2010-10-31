@@ -5,3 +5,5 @@ mvn clean package -P sign -Dkeystore=./test.keystore -Dstorepass=hogehoge -Dkeyp
 settings.xml設定後
 mvn install -Psign
 
+rootで mvn clean install でインストールとテストの実施まで行ってくれる
+
